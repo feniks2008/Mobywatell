@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Mobywatell",
+    "slug": "mobywatell",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.feniks2008.mobywatell",
+      "versionCode": 1,
+      "permissions": [],
+      "config": {
+        "googleMaps": {
+          "apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+        }
+      }
+    },
+    "offline": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
